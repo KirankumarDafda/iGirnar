@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iGirnar.iml" filepath="$PROJECT_DIR$/.idea/modules/iGirnar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/iGirnar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/iGirnar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/476491362/iGirnar.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/476491362/iGirnar.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1035886411/iGirnar.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1035886411/iGirnar.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/341090375/iGirnar.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/341090375/iGirnar.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1596940254/iGirnar.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1596940254/iGirnar.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745444214/iGirnar.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1745444214/iGirnar.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-232375487/iGirnar.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-232375487/iGirnar.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-566720470/iGirnar.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-566720470/iGirnar.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/396418834/iGirnar.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/396418834/iGirnar.react-native-youtube.iml" />
+    </modules>
+  </component>
+</project>

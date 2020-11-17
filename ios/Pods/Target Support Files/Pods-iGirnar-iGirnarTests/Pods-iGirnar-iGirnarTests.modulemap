@@ -1,0 +1,6 @@
+module Pods_iGirnar_iGirnarTests {
+  umbrella header "Pods-iGirnar-iGirnarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
